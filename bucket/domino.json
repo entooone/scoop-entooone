@@ -5,7 +5,7 @@
     "license": "Check Manual/install.htm#kyodaku after installation.",
     "url": "https://takabosoft.com/download/win/domino/Domino144.zip",
     "hash": "b9dc8e51f748f4cf6888e008e85f102311dc2789d49e6cb70c62284eb32b046e",
-    "extract_dir": "domino",
+    "extract_dir": "Domino$cleanVersion",
     "bin": "Domino.exe",
     "shortcuts": [
         [
