@@ -6,10 +6,10 @@
     "url": "https://takabosoft.com/download/win/domino/Domino144.zip",
     "hash": "b9dc8e51f748f4cf6888e008e85f102311dc2789d49e6cb70c62284eb32b046e",
     "extract_dir": "domino",
-    "bin": "domino.exe",
+    "bin": "Domino.exe",
     "shortcuts": [
         [
-            "domino.exe",
+            "Domino.exe",
             "Domino"
         ]
     ],
