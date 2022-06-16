@@ -1,0 +1,22 @@
+{
+    "homepage": "https://takabosoft.com/domino",
+    "version": "1.44",
+    "description": "DominoはピアノロールをメインとしたMIDI専用の音楽編集ソフト（MIDIシーケンサ）です。",
+    "license": "Check Manual/install.htm#kyodaku after installation.",
+    "url": "https://takabosoft.com/download/win/domino/Domino144.zip",
+    "hash": "b9dc8e51f748f4cf6888e008e85f102311dc2789d49e6cb70c62284eb32b046e",
+    "bin": "domino.exe",
+    "shortcuts": [
+        [
+            "domino.exe",
+            "Domino"
+        ]
+    ],
+    "checkver": {
+        "url": "https://takabosoft.com/domino/releasenotes",
+        "re": "Domino Ver\\.*?>([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://takabosoft.com/download/win/domino/Domino$cleanVersion.zip"
+    }
+}
